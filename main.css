@@ -1,4 +1,16 @@
 header {
     display: flex;
-    
+
+}
+
+#nav-bar {
+    display: flex;
+
+}
+
+#header-img {
+    max-width: 400px;
+    max-height: 180px;
+    width: auto;
+    height: auto
 }
